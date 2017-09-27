@@ -1,0 +1,24 @@
+/*Fonts: 
+font-family: 'Hammersmith One', sans-serif;*/
+
+img {
+	float: left;
+	width: 30%;
+	margin: 1.6%;
+}
+
+h1 {
+	font-family: "Hammersmith One", sans-serif;
+	margin-left: 1.6%;
+	font-size: 23;
+	border-bottom: 2px solid rgba(238,169,144,0.5);
+	width: 60%;
+	padding-bottom: 0.5%;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: "Hammersmith One", sans-serif;
+	float: all;
+	margin-left: 1.6%;
+}
